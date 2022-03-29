@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4dd3e96-b369-4278-8561-b3439995210c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addBanner.php" beforeDir="false" afterPath="$PROJECT_DIR$/addBanner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connector.php" beforeDir="false" afterPath="$PROJECT_DIR$/connector.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editBanner.php" beforeDir="false" afterPath="$PROJECT_DIR$/editBanner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/editUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getBanner.php" beforeDir="false" afterPath="$PROJECT_DIR$/getBanner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getUserUsingPhone.php" beforeDir="false" afterPath="$PROJECT_DIR$/getUserUsingPhone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-07-23-7-45-26-2337.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-1-38-08-17990.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-1-57-58-27322.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-1-58-43-19819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-1-59-14-16584.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-1-59-34-13665.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-2-17-10-1332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-2-42-39-8155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-2-45-16-5906.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-3-17-19-210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-3-30-00-18306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-4-23-48-9837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-6-23-31-4573.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-6-24-39-28377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-6-32-15-158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-6-47-27-6015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/21-08-28-7-07-14-20196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myhome.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query.php" beforeDir="false" afterPath="$PROJECT_DIR$/query.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signUp.php" beforeDir="false" afterPath="$PROJECT_DIR$/signUp.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tUfVdpEFhTUlAX5yBEKKJEuH9h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../divar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\myhome" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4dd3e96-b369-4278-8561-b3439995210c" name="Default Changelist" comment="" />
+      <created>1622828613699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622828613699</updated>
+      <workItem from="1622828614775" duration="796000" />
+      <workItem from="1622914777598" duration="638000" />
+      <workItem from="1622917072304" duration="630000" />
+      <workItem from="1622985171019" duration="168000" />
+      <workItem from="1622986532410" duration="54000" />
+      <workItem from="1623332535704" duration="1173000" />
+      <workItem from="1623335543177" duration="1249000" />
+      <workItem from="1623337393440" duration="724000" />
+      <workItem from="1625514706375" duration="1780000" />
+      <workItem from="1625516509737" duration="1451000" />
+      <workItem from="1625568160806" duration="535000" />
+      <workItem from="1626087681792" duration="1295000" />
+      <workItem from="1626089500230" duration="1488000" />
+      <workItem from="1626091462670" duration="718000" />
+      <workItem from="1626188680634" duration="1817000" />
+      <workItem from="1626190526195" duration="1279000" />
+      <workItem from="1626192429995" duration="1854000" />
+      <workItem from="1626265979745" duration="637000" />
+      <workItem from="1626360485740" duration="1697000" />
+      <workItem from="1626367243905" duration="257000" />
+      <workItem from="1626556866681" duration="753000" />
+      <workItem from="1626632216610" duration="238000" />
+      <workItem from="1626761783899" duration="1824000" />
+      <workItem from="1626768042978" duration="1661000" />
+      <workItem from="1626769867274" duration="1791000" />
+      <workItem from="1626771690487" duration="1788000" />
+      <workItem from="1626773528519" duration="1529000" />
+      <workItem from="1626810387580" duration="1134000" />
+      <workItem from="1626812226699" duration="1791000" />
+      <workItem from="1626851266183" duration="1625000" />
+      <workItem from="1626878011099" duration="598000" />
+      <workItem from="1626880482766" duration="1790000" />
+      <workItem from="1626882298078" duration="1788000" />
+      <workItem from="1626884107475" duration="1788000" />
+      <workItem from="1626886080228" duration="1789000" />
+      <workItem from="1626887896271" duration="710000" />
+      <workItem from="1626970621826" duration="17000" />
+      <workItem from="1627025419674" duration="1377000" />
+      <workItem from="1627986255796" duration="1768000" />
+      <workItem from="1627988070622" duration="1360000" />
+      <workItem from="1627993219735" duration="1147000" />
+      <workItem from="1627997447079" duration="647000" />
+      <workItem from="1628009151143" duration="1802000" />
+      <workItem from="1628017071816" duration="1797000" />
+      <workItem from="1628018891208" duration="916000" />
+      <workItem from="1628065006891" duration="1066000" />
+      <workItem from="1628066828976" duration="1791000" />
+      <workItem from="1628068990714" duration="172000" />
+      <workItem from="1628152798835" duration="5000" />
+      <workItem from="1628969444624" duration="360000" />
+      <workItem from="1629027147327" duration="1137000" />
+      <workItem from="1629028317628" duration="507000" />
+      <workItem from="1629901035111" duration="111000" />
+      <workItem from="1633859923860" duration="14000" />
+      <workItem from="1648117504304" duration="1201000" />
+      <workItem from="1648388157375" duration="650000" />
+      <workItem from="1648412639061" duration="27000" />
+      <workItem from="1648415211830" duration="520000" />
+      <workItem from="1648419740762" duration="94000" />
+      <workItem from="1648555425121" duration="597000" />
+      <workItem from="1648558386855" duration="998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1648558554829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648558554829" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1648559386785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1648559386785" />
+    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1648559366046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1648559366046" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1648117518535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1648117518535" />
+  </component>
+</project>
